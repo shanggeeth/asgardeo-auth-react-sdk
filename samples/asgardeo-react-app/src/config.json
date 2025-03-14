@@ -1,7 +1,7 @@
 {
-    "clientID": "",
-    "baseUrl": "",
-    "signInRedirectURL": "https://localhost:3000",
-    "signOutRedirectURL": "https://localhost:3000",
+    "clientID": "rfnNtgJddDWENSqZHVwvmJbKUOMa",
+    "baseUrl": "https://api.asgardeo.io/t/shanggeeth",
+    "signInRedirectURL": "https://ada21644-6891-4986-b982-c338c982eafc.e1-us-east-azure.choreoapps.dev",
+    "signOutRedirectURL": "https://ada21644-6891-4986-b982-c338c982eafc.e1-us-east-azure.choreoapps.dev",
     "scope": ["profile"]
 }
