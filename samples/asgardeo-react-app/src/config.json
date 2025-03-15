@@ -3,5 +3,6 @@
     "baseUrl": "https://gardeo.eastus.cloudapp.azure.com:9443",
     "signInRedirectURL": "https://751eac8a-4349-4951-b4c6-04f3466769da.e1-us-east-azure.choreoapps.dev",
     "signOutRedirectURL": "https://751eac8a-4349-4951-b4c6-04f3466769da.e1-us-east-azure.choreoapps.dev",
-    "scope": ["profile", "openid", "groups"]
+    "scope": ["profile", "openid", "groups"],
+    "enablePKCE": false
 }
