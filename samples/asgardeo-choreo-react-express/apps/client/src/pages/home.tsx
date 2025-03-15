@@ -115,6 +115,11 @@ export const HomePage: FunctionComponent<
         <div className="content">
           <div className="home-image">
             <img src={REACT_LOGO} className="react-logo-image logo" />
+            <p className="attribution">
+              <a href="https://www.vecteezy.com/free-png/abstract" target="_blank" rel="noopener noreferrer">
+                Abstract PNGs by Vecteezy
+              </a>
+            </p>
           </div>
           <h4 className={"spa-app-description"}>
             Sample demo to showcase authentication for a Single Page Application
