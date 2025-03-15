@@ -1,7 +1,7 @@
 {
-    "clientID": "rfnNtgJddDWENSqZHVwvmJbKUOMa",
-    "baseUrl": "https://api.asgardeo.io/t/shanggeeth",
-    "signInRedirectURL": "https://ada21644-6891-4986-b982-c338c982eafc.e1-us-east-azure.choreoapps.dev",
-    "signOutRedirectURL": "https://ada21644-6891-4986-b982-c338c982eafc.e1-us-east-azure.choreoapps.dev",
+    "clientID": "Q3trFkRr6lkf2K7xecs0uxP1vTEa",
+    "baseUrl": "https://gardeo.eastus.cloudapp.azure.com:9443",
+    "signInRedirectURL": "https://751eac8a-4349-4951-b4c6-04f3466769da.e1-us-east-azure.choreoapps.dev",
+    "signOutRedirectURL": "https://751eac8a-4349-4951-b4c6-04f3466769da.e1-us-east-azure.choreoapps.dev",
     "scope": ["profile"]
 }
